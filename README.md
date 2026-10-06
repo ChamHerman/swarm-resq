@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./docs/images/logo.svg" width="340" alt="Swarm-ResQ Official Logo" />
+  <img src="./docs/images/logo.svg" width="130" alt="Swarm-ResQ Official Logo" />
 
   <br />
 
@@ -429,5 +429,5 @@ MISSION_METRICS:
 
 ## 📄 License
 
-This project is open-source software licensed under the **[MIT License](./LICENSE)**.  
-Copyright © 2026 Swarm-ResQ. All rights reserved.
+This repository is licensed under the **[MIT License](./LICENSE)**.  
+Copyright © 2026 ChamHerman. All rights reserved.
